@@ -12,3 +12,4 @@ Sources :
   https://helda.helsinki.fi/bitstream/handle/10138/315174/Kovala_Jarkko_Pro_gradu_2020.pdf?sequence=3&isAllowed=y
   K. Dolui and S. K. Datta, "Comparison of edge computing implementations: Fog computing, cloudlet and mobile edge computing," 2017 Global Internet of Things Summit (GIoTS), 2017, pp. 1-6, doi: 10.1109/GIOTS.2017.8016213.
   https://www.youtube.com/watch?v=7uQFsVCXoEc&t=911s&ab_channel=OpenInfrastructureFoundation
+Sabella, D., Reznik, A., & Frazao, R. (2019). Multi-Access Edge Computing in Action (1st ed.). CRC Press.
